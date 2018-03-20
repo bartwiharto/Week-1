@@ -17,3 +17,11 @@ Part 1: Github
         Pull request: will let you tell other people or admin from a certain private github that you're trying to push your code to their repo. Afterwards, they can view and review your codes.
     2. git push
     
+    Part 3: Fake Resume Site
+    1. mkdir resume_page
+    2. cd  resume_page, touch index.html style.css
+    3. subl index.html
+    4. <h1>Bart Wiharto</h1>
+    5. open index.html
+    
+    

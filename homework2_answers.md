@@ -12,3 +12,8 @@ Part 1: Github
     1. git branch
     2. git checkout <name of branch>
     3. In case the developer wants to create a separate copy of their code that they want to commit. Or if there are more than 1 developer that is working on the project
+    
+    1. Using git merge: When developer is done working on a code that is in a different branch, they will use git merge to merge their code with the master branch
+        Pull request: will let you tell other people or admin from a certain private github that you're trying to push your code to their repo. Afterwards, they can view and review your codes.
+    2. git push
+    

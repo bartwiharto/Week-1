@@ -24,4 +24,17 @@ Part 1: Github
     4. <h1>Bart Wiharto</h1>
     5. open index.html
     
-    
+    Add professional content
+    1. <img src="#" alt="My professional picture"> </img>
+    2. <ul>
+         <li>Subtitle Editor</li>
+         <li>Freelance Translator</li>
+         <li>Assistant Stage Manager</li>
+       </ul>
+    3. <h3>
+        <a href="#">LinkedIn</a>
+        <a href="#">Facebook</a>
+        <a href="#">Twitter</a>
+       </h3>
+       
+       

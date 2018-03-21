@@ -54,4 +54,31 @@ Part 1: Github
             body {
             padding: 50px 30px 50px 80px;
             }
-       
+            
+
+Add some navigation to your site:
+    1. replacing <h3> with <nav>:
+                <nav>
+                <a href="#">LinkedIn</a>
+                <a href="#">Facebook</a>
+                <a href="#">Twitter</a>
+                </nav>
+    
+    2.    <nav>
+            <a href="index.html">Home Page</a>
+            <a href="#">LinkedIn</a>
+            <a href="#">Facebook</a>
+            <a href="#">Twitter</a>
+            <a href="projects.html">Projects</a>
+          </nav>
+
+    3. touch projects.html
+    4. copy and pasted <nav> to projects.html
+    5. <h2>Projects</h2>
+    6. All links works
+    7.  <ol>
+            <li>Netflix Projects</li>
+            <li>Technicolor Projects</li>
+            <li>Santa Monica College Dance Department</li>
+        </ol>
+

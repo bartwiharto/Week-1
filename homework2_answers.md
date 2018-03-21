@@ -81,4 +81,48 @@ Add some navigation to your site:
             <li>Technicolor Projects</li>
             <li>Santa Monica College Dance Department</li>
         </ol>
+        
 
+Part 4: Loops
+1. touch loops.js
+2.  let i = 0;
+        while (i<=99) {
+        console.log(i);
+        i++;
+        }
+        
+3. let i = 99;
+        while (i>=0) {
+        console.log(i);
+        i--;
+        }
+        
+4. let i = 0;
+        while (i<=98) {
+        console.log(i);
+        i+=2;
+        }
+        
+5. let i = 98;
+        while (i>=0) {
+        console.log(i);
+        i-=2;
+        }
+
+6. let i = 49;
+        while (i<=72) {
+        console.log(i);
+        i++;
+        }
+        
+7. let i = 81;
+        while (i>=26) {
+        console.log(i);
+        i--;
+        }
+
+8. let i = 1;
+        while (i <= 30) {
+        console.log(i * 3);
+        i++;
+        }

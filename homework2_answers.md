@@ -37,4 +37,21 @@ Part 1: Github
         <a href="#">Twitter</a>
        </h3>
        
+    Add some style to your site
+    1. h1 {text-align: center;}
+    2. link this at the <head> of index.html:
+            <link href="https://fonts.googleapis.com/css?family=PT+Serif+Caption" rel="stylesheet">
+        In style.css file, add this command:
+            h1 {
+            text-align: center;
+            font-family: 'PT Serif Caption', Serif;
+            }
+    3. Since <h3> tags are also <a>, so:
+            h3 a{
+            color: red;
+            }
+    4. Adding padding/space to the body:
+            body {
+            padding: 50px 30px 50px 80px;
+            }
        
